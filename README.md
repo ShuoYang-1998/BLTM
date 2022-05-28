@@ -1,5 +1,4 @@
-# BLTM
-ICML'2022 Estimating Instance-dependent Bayes-label Transition Matrix using a Deep Neural Network
+# ICML 2022 Estimating Instance-dependent Bayes-label Transition Matrix using a Deep Neural Network
 
 This is the code for the paper:
 [Estimating Instance-dependent Bayes-label Transition Matrix using a Deep Neural Network](https://arxiv.org/pdf/2105.13001.pdf)      
