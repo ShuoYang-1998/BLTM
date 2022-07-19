@@ -92,7 +92,7 @@ def load_data(args):
                                         seed=args.seed)
 
 
-        test_dataset =  data.fashionmnist_dataset(
+        test_dataset =  data.fashionmnist_test_dataset(
                                         transform = transforms.Compose([
                                         transforms.ToTensor(),
                                         transforms.Normalize((0.1307, ),(0.3081, )),]),
